@@ -2,7 +2,7 @@
 ## The purpose of this project is to practice basic SQL commands.
 ### Learning to create a DATABASE, TABLE and perform basic operations.
 
-### SQL commands
+#### SQL commands
 
 CREATE DATABASE ej_sql;
 
@@ -23,4 +23,5 @@ SET name = Juan Alberto
 WHERE id= 007;
 
 DELETE FROM workers
+
 WHERE id = 007;
